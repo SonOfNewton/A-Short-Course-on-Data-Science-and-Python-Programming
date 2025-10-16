@@ -1,1 +1,1 @@
-# A-Short-Course-on-Data-Science-and-Python-Programming
+# A mini data science course with applications in medicine
